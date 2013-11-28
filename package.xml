@@ -1,0 +1,13 @@
+<package>
+  <name>win_rqt</name>
+  <version>0.1.0</version>
+  <description>
+    Package that creates Windows executables for rqt python packages.
+  </description>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/msvc_runtime</url>
+  <maintainer email="yichoe@yujinrobot.com">Yeong-il Choe</maintainer>
+  <author>Daniel Stonier</author>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
+
